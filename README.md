@@ -1,7 +1,7 @@
 <h2 align= "center"><em>Transforming Data Into Actionable Insights</em></h2>
 
 <div align="center">
-  <img height="200" src="[https://i.gifer.com/74pZ.gif](https://github.com/shreyjain99/shreyjain99/blob/main/74pZ.gif)"/>
+  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/74pZ.gif"/>
 </div>
 
 <div align="center">
