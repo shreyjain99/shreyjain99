@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/plot_time.png"/>
+  <img width="500" src="https://github.com/shreyjain99/shreyjain99/blob/main/plot_time.png"/>
 </div>
 
 ###
