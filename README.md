@@ -16,6 +16,8 @@
 
 <p align="left">As a highly qualified professional with a robust analytical mindset, I am currently pursuing a Master of Science in Business Analytics at The University of Texas at Dallas. My skill set encompasses a diverse range of technical tools and analytical methodologies. I excel in problem-solving, critical thinking, and effective communication, with a keen emphasis on teamwork and time management. Driven by a passion for uncovering insights from data, I am committed to making significant contributions to impactful decision-making in data-driven roles.</p>
 
+###
+
 
 <div align="center">
   <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/graph_skill.png"/>
