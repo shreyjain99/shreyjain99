@@ -20,5 +20,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/skill%20graph.png"/>
+  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/skill_graph.png)https://github.com/shreyjain99/shreyjain99/blob/main/skill_graph.png"/>
 </div>
