@@ -1,7 +1,7 @@
 <h2 align= "center"><em>Transforming Data Into Actionable Insights</em></h2>
 
 <div align="center">
-  <img height="200" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_1.gif"  />
+  <img height="200" src="https://i.gifer.com/74pZ.gif"  />
 </div>
 
 <div align="center">
