@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img width="900" height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/final_time.png"/>
+  <img width="900" height="400" src="https://github.com/shreyjain99/shreyjain99/blob/main/final_time.png"/>
 </div>
 
 ###
