@@ -22,3 +22,7 @@
 <div align="center">
   <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/image.png"/>
 </div>
+
+<div align="center">
+  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/timeline_plot.png"/>
+</div>
