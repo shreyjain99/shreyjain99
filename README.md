@@ -1,3 +1,5 @@
+<h1 align="center">Transforming data into actionable insights</h1>
+
 <div align="center">
   <img height="150" src=""  />
 </div>
