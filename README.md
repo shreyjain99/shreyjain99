@@ -9,7 +9,7 @@
 
 <div class="left">
   <hr>
-  <h2>About Me    <a href="mailto:shreysandeep.jain@utdallas.edu"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Gmail-logo.png" height="15" alt="GMAIL">  <a href="http://www.linkedin.com/in/shreyjain99"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" height="15" alt="LINKEDIN"></a></h2>
+  <h2>About Me                        <a href="mailto:shreysandeep.jain@utdallas.edu"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Gmail-logo.png" height="15" alt="GMAIL">  <a href="http://www.linkedin.com/in/shreyjain99"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" height="15" alt="LINKEDIN"></a></h2>
 </div>
 
 ###
