@@ -16,6 +16,11 @@
   </a>
 </div>
 
+<div class="left">
+    <h1>ABOUT ME</h1>
+    <a href="http://www.linkedin.com/in/shreyjain99"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" height="25" alt="LINKEDIN"></a>
+    <a href="mailto:shreysandeep.jain@utdallas.edu"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Gmail-logo.png" height="25" alt="GMAIL"></a>
+</div>
 
 ###
 
