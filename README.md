@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Transforming data into actionable insights</title>
+  <title>Portfolio Tagline</title>
   <style>
     /* CSS for styling the tagline */
     .tagline {
