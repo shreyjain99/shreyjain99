@@ -30,13 +30,14 @@
 </div>
 
 ###
+<hr>
 
 <div align="center">
-  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/check_gif.gif"/>
+  <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/check_gif.gif"/>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif"/>
+  <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif"/>
 </div>
