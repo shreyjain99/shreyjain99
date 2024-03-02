@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img width="900" src="https://github.com/shreyjain99/shreyjain99/blob/main/plot_time.png"/>
+  <img width="900" src="https://github.com/shreyjain99/shreyjain99/blob/main/timeline_plot_final.png"/>
 </div>
 
 ###
