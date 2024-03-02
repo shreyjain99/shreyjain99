@@ -9,12 +9,12 @@
 
 <div class="left">
   <hr>
-  <h2>About Me                        <a href="mailto:shreysandeep.jain@utdallas.edu"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Gmail-logo.png" height="15" alt="GMAIL">  <a href="http://www.linkedin.com/in/shreyjain99"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" height="15" alt="LINKEDIN"></a></h2>
+  <h2>About Me     <a href="mailto:shreysandeep.jain@utdallas.edu"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Gmail-logo.png" height="15" alt="GMAIL">  <a href="http://www.linkedin.com/in/shreyjain99"><img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" height="15" alt="LINKEDIN"></a></h2>
 </div>
 
 ###
 
-<p align="left">I am a highly qualified and accomplished professional with a track record of success in the product-based software and technology sector. At this time, I am looking to further my expertise by pursuing a Master of Science in Computer Engineering from The University of Texas at Dallas.<br><br>I'm enthusiastic to use my knowledge of cutting-edge technologies, such as machine learning, artificial intelligence, embedded software development, and the Internet of Things, to lead effective research and development activities in the software sector. I am sure that I can significantly contribute to the development and success of any firm by utilizing my technical expertise and capacity to work well with cross-functional teams.</p>
+<p align="left">As a highly qualified professional with a robust analytical mindset, I am currently pursuing a Master of Science in Business Analytics at The University of Texas at Dallas. My skill set encompasses a diverse range of technical tools and analytical methodologies. I excel in problem-solving, critical thinking, and effective communication, with a keen emphasis on teamwork and time management. Driven by a passion for uncovering insights from data, I am committed to making significant contributions to impactful decision-making in data-driven roles.</p>
 
 ###
 
