@@ -1,2 +1,2 @@
-<h2 align= "left">My Professional Story: Projects, Profiles, and More</h2>
+<h2 align= "left"><em>My Professional Story: Projects, Profiles, and More</em></h2>
 
