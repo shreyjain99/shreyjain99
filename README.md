@@ -1,6 +1,6 @@
 <h2 align= "left"><em>My Professional Story: Projects, Profiles, and More</em></h2>
 
-<img src="https://github.com/shreyjain99/shreyjain99/blob/main/74pZ.gif" alt="Sample GIF" height="250" width="650">
+# <img src="https://github.com/shreyjain99/shreyjain99/blob/main/74pZ.gif" alt="Sample GIF" height="250" width="650">
 
 <hr width="100%" size="2">
 <br>
@@ -22,9 +22,5 @@
     <li>
         <img src="https://github.com/shreyjain99/shreyjain99/blob/main/leetcode%20logo.png" alt="LeetCode Logo" width="32" height="32">
         <a href="https://leetcode.com/u/shreyjain99/" target="_blank">LeetCode</a>
-    </li>
-    <li>
-        <img src="" alt="" width="32" height="32">
-        <a href="" target="_blank">portfolio</a>
     </li>
 </ul>
