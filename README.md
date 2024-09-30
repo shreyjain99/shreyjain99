@@ -39,3 +39,52 @@
         <li><strong>Email Contact</strong>: [Your email address] - Reach out for collaborations or inquiries.</li>
         <li><strong>GitHub Repositories</strong>: Links to all my GitHub repositories, showcasing a variety of projects and contributions.</li>
     </ul>
+
+
+
+
+
+
+<html>
+<head>
+    <title>My Professional Links and Certifications</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .profile { margin-bottom: 20px; }
+        img { width: 50px; height: 50px; vertical-align: middle; margin-right: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Summary of My Professional Links and Certifications</h1>
+    <div class='profile'>
+        <h2>Certifications</h2>
+        <p>A collection of all my certifications, showcasing my skills and expertise in various domains.</p>
+    </div>
+    <div class='profile'>
+        <a href='[Kaggle Link]'><img src='https://iconduck.com/icons/14124/kaggle' alt='Kaggle Logo'>Kaggle Profile</a> - Engage with my data science projects and competitions.
+    </div>
+    <div class='profile'>
+        <a href='[HackerRank Link]'><img src='https://en.wikipedia.org/wiki/File:HackerRank_Icon-1000px.png' alt='HackerRank Logo'>HackerRank Profile</a> - Explore my coding challenges and accomplishments.
+    </div>
+    <div class='profile'>
+        <a href='[LeetCode Link]'><img src='https://commons.wikimedia.org/wiki/File:LeetCode_logo_black.png' alt='LeetCode Logo'>LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.
+    </div>
+    <div class='profile'>
+        <a href='[Tableau Link]'><img src='https://icons8.com/icons/set/tableau-logo' alt='Tableau Logo'>Tableau Public Profile</a> - Discover my data visualization projects.
+    </div>
+    <div class='profile'>
+        <a href='[Portfolio Link]'><img src='[Portfolio Logo URL]' alt='Portfolio Logo'>Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.
+    </div>
+    <div class='profile'>
+        <a href='[LinkedIn Link]'><img src='https://www.freeiconspng.com/images/linkedin-logo-png' alt='LinkedIn Logo'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.
+    </div>
+    <div class='profile'>
+        <h2>Email Contact</h2>
+        <p>[Your Email Address] - Reach out for collaborations or inquiries.</p>
+    </div>
+    <div class='profile'>
+        <h2>GitHub Repositories</h2>
+        <p>Links to all my GitHub repositories, showcasing a variety of projects and contributions.</p>
+    </div>
+</body>
+</html>
