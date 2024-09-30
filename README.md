@@ -8,7 +8,7 @@
 <h1>My Profile Links</h1>
 <ul>
     <li>
-        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/Linkedin-logo.png" alt="LinkedIn Logo" width="32" height="32">
+        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/linkedin%20logo.jpg" alt="LinkedIn Logo" width="32" height="32">
         <a href="www.linkedin.com/in/shreyjain99" target="_blank">LinkedIn</a>
     </li>
     <li>
