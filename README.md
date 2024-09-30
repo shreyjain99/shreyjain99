@@ -1,65 +1,23 @@
-<h2 align= "left"><em>My Professional Story: Projects, Profiles, and More</em></h2>
-
-# <img src="https://github.com/shreyjain99/shreyjain99/blob/main/74pZ.gif" alt="Sample GIF" height="250" width="650">
-
-<hr width="100%" size="2">
-<br>
-
-<h1>My Profile Links</h1>
-<ul>
-    <li>
-        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/linkedin%20logo.jpg" alt="LinkedIn Logo" width="32" height="32">
-        <a href="www.linkedin.com/in/shreyjain99" target="_blank">LinkedIn</a>
-    </li>
-    <li>
-        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/Tableau-Symbol.png" alt="Tableau Logo" width="32" height="32">
-        <a href="https://public.tableau.com/app/profile/shrey.jain6858/vizzes" target="_blank">Tableau Public</a>
-    </li>
-    <li>
-        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/hackerrank%20logo.png" alt="HackerRank Logo" width="32" height="32">
-        <a href="https://www.hackerrank.com/profile/shreyjain99" target="_blank">HackerRank</a>
-    </li>
-    <li>
-        <img src="https://github.com/shreyjain99/shreyjain99/blob/main/leetcode%20logo.png" alt="LeetCode Logo" width="32" height="32">
-        <a href="https://leetcode.com/u/shreyjain99/" target="_blank">LeetCode</a>
-    </li>
-</ul>
-
-
-
-
-<ul>
-        <li><strong>Certifications</strong>: A collection of all my certifications, showcasing my skills and expertise in various domains.</li>
-        <li><strong>Kaggle Profile</strong>: <a href="[Link to my Kaggle profile]">Link to my Kaggle profile</a> - Engage with my data science projects and competitions.</li>
-        <li><strong>HackerRank Profile</strong>: <a href="[Link to my HackerRank profile]">Link to my HackerRank profile</a> - Explore my coding challenges and accomplishments.</li>
-        <li><strong>LeetCode Profile</strong>: <a href="[Link to my LeetCode profile]">Link to my LeetCode profile</a> - View my problem-solving skills in algorithm challenges.</li>
-        <li><strong>Tableau Public Profile</strong>: <a href="[Link to my Tableau Public profile]">Link to my Tableau Public profile</a> - Discover my data visualization projects.</li>
-        <li><strong>Portfolio Website</strong>: <a href="[Link to my portfolio website]">Link to my portfolio website</a> - A comprehensive view of my projects, skills, and experiences.</li>
-        <li><strong>LinkedIn Profile</strong>: <a href="[Link to my LinkedIn profile]">Link to my LinkedIn profile</a> - Connect with me professionally and view my career journey.</li>
-        <li><strong>Email Contact</strong>: [Your email address] - Reach out for collaborations or inquiries.</li>
-        <li><strong>GitHub Repositories</strong>: Links to all my GitHub repositories, showcasing a variety of projects and contributions.</li>
-    </ul>
-
-
-
-
-
+<h1>My Professional Story: Projects, Profiles, and More </h1>
 
 <html>
+    
 <head>
-    <title>My Professional Links and Certifications</title>
     <style>
         body { font-family: Arial, sans-serif; }
-        .profile { margin-bottom: 20px; }
+        .profile { margin-bottom: 40px; } 
         img { width: 50px; height: 50px; vertical-align: middle; margin-right: 10px; }
     </style>
 </head>
+
 <body>
-    <h1>Summary of My Professional Links and Certifications</h1>
+    <h3>My profile's </h3>
     <div class='profile'>
-        <h2>Certifications</h2>
-        <p>A collection of all my certifications, showcasing my skills and expertise in various domains.</p>
+        <a href='www.linkedin.com/in/shreyjain99'><img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.
     </div>
+    <div class='profile'>
+        <a href='https://public.tableau.com/app/profile/shrey.jain6858/vizzes'><img src='https://github.com/shreyjain99/shreyjain99/blob/main/Tableau%20logo.png' alt='Tableau Logo'>Tableau Public Profile</a> - Discover my data visualization projects.
+    </div>    
     <div class='profile'>
         <a href='[Kaggle Link]'><img src='https://iconduck.com/icons/14124/kaggle' alt='Kaggle Logo'>Kaggle Profile</a> - Engage with my data science projects and competitions.
     </div>
@@ -70,19 +28,26 @@
         <a href='[LeetCode Link]'><img src='https://commons.wikimedia.org/wiki/File:LeetCode_logo_black.png' alt='LeetCode Logo'>LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.
     </div>
     <div class='profile'>
-        <a href='[Tableau Link]'><img src='https://icons8.com/icons/set/tableau-logo' alt='Tableau Logo'>Tableau Public Profile</a> - Discover my data visualization projects.
-    </div>
-    <div class='profile'>
         <a href='[Portfolio Link]'><img src='[Portfolio Logo URL]' alt='Portfolio Logo'>Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.
     </div>
-    <div class='profile'>
-        <a href='[LinkedIn Link]'><img src='https://www.freeiconspng.com/images/linkedin-logo-png' alt='LinkedIn Logo'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.
+<div class='profile'>
+        <a href='[Instagram Link]'><img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' alt='Instagram Logo'>Instagram Profile</a> - Follow me for updates and insights into my professional life.
     </div>
-    <div class='profile'>
-        <h2>Email Contact</h2>
-        <p>[Your Email Address] - Reach out for collaborations or inquiries.</p>
+
+
+
+
+
+<!-- Contact Me Section -->
+<div class='profile'>
+        <h2>Contact Me</h2>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Phone_icon.svg/800px-Phone_icon.svg.png' alt='Phone Logo' style='width: 30px; height: 30px; vertical-align: middle; margin-right: 10px;'>
+        <p>Email: [Your Email Address]</p>
+        <p>Phone: [Your Phone Number]</p>
     </div>
-    <div class='profile'>
+    
+<!-- GitHub Repositories Section -->
+<div class='profile'>
         <h2>GitHub Repositories</h2>
         <p>Links to all my GitHub repositories, showcasing a variety of projects and contributions.</p>
     </div>
