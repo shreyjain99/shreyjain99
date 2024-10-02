@@ -16,7 +16,7 @@
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/hackerrank%20logo.png' alt='HackerRank Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.hackerrank.com/profile/shreyjain99' target='_blank' style="font-size: 1.1em;">HackerRank Profile</a> - Explore my coding challenges and accomplishments.<br><br>
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/kaggle-logo.svg' alt='Kaggle Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.kaggle.com/shreyjain99' target='_blank' style="font-size: 1.1em;">Kaggle Profile</a> - Engage with my data science projects and competitions.<br><br>
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/LeetCode-logo.png' alt='LeetCode Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://leetcode.com/u/shreyjain99/' target='_blank' style="font-size: 1.1em;">LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.<br><br>
-    <img src='https://github.com/shreyjain99/shreyjain99/blob/main/instagram-logo.svg' alt='Instagram Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
+    <img src='https://github.com/shreyjain99/shreyjain99/blob/main/insta%20logo%20v2.png' alt='Instagram Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
 </div>
 
 <h2 style="font-size: 1.2em;">Contact Me</h2>
