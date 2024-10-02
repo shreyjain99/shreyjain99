@@ -10,7 +10,7 @@
 
 <h2 style="font-size: 1.2em;">Profiles:</h2>
 <div>
-    <img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank' style="font-size: 1.1em;">LinkedIn Profile</a> - Connect with me professionally and view my career journey.<br><br>
+    <img src='https://linkedin.com/favicon.ico' alt='LinkedIn Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank' style="font-size: 1.1em;">LinkedIn Profile</a> - Connect with me professionally and view my career journey.<br><br>
     <img src='https://yourportfolio.com/logo.png' alt='Portfolio Logo' width='27' height='27'> &nbsp;&nbsp; <a href='#' target='_blank' style="font-size: 1.1em;">Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.<br><br>
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/Tableau%20logo.png' alt='Tableau Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://public.tableau.com/app/profile/shrey.jain6858/vizzes' target='_blank' style="font-size: 1.1em;">Tableau Public Profile</a> - Discover my data visualization projects.<br><br>
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/hackerrank%20logo.png' alt='HackerRank Logo' width='27' height='27'> &nbsp;&nbsp; <a href='https://www.hackerrank.com/profile/shreyjain99' target='_blank' style="font-size: 1.1em;">HackerRank Profile</a> - Explore my coding challenges and accomplishments.<br><br>
