@@ -3,11 +3,10 @@
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>Professional Links and Certifications</title>
 </head>
 <body>
 
-<h1>Summary of My Professional Links and Certifications</h1>
+<h1>my professional journey: profiles, projects and more</h1>
 
 <h2>Profiles:</h2>
 <div>
