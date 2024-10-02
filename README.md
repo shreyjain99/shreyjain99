@@ -18,7 +18,7 @@
     <li><img src='https://leetcode.com/favicon.ico' alt='LeetCode Logo' width='16' height='16'> <a href='[Link to my LeetCode profile]'>LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.</li>
     <li><img src='https://github.com/shreyjain99/shreyjain99/blob/main/Tableau%20logo.png' alt='Tableau Logo' width='16' height='16'> <a href='https://public.tableau.com/app/profile/shrey.jain6858/vizzes'>Tableau Public Profile</a> - Discover my data visualization projects.</li>
     <li><img src='https://yourportfolio.com/logo.png' alt='Portfolio Logo' width='16' height='16'> <a href='[Link to my portfolio website]'>Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.</li>
-    <li><img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo' width='16' height='16'> <a href='www.linkedin.com/in/shreyjain99'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.</li>
+    <li><img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo' width='16' height='16'> <a href='https://www.linkedin.com/in/shreyjain99/'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.</li>
     <!-- New Instagram Profile -->
     <li><img src='https://instagram.com/favicon.ico' alt='Instagram Logo' width='16' height='16'> <a href='[Link to my Instagram profile]'>Instagram Profile</a> - Follow me for updates and insights into my professional journey.</li>
 </ul>
