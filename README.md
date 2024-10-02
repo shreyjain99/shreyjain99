@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>my professional journey: profiles, projects and more</h1>
+<h1>my professional journey: profiles, projects and more...</h1>
 
 <h2>Profiles:</h2>
 <div>
