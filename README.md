@@ -10,7 +10,7 @@
 
 <h2 style="font-size: 1.2em;">Profiles:</h2>
 <div>
-    <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank'>
+    <a href='https://www.linkedin.com/in/shreyjain99/'>
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin%20logo%20v2.ico' alt='LinkedIn Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank' style="font-size: 1.1em;">LinkedIn Profile</a> - Connect with me professionally and view my career journey.<br><br>
     
