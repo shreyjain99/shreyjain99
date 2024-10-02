@@ -1,4 +1,47 @@
-<h1>My Professional Story: Projects, Profiles, and More </h1>\
+<h1>My Professional Story: Projects, Profiles, and More </h1>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Professional Links and Certifications</title>
+</head>
+<body>
+
+<h1>Summary of My Professional Links and Certifications</h1>
+
+<h2>Profiles:</h2>
+<ul>
+    <li><img src='https://www.kaggle.com/favicon.ico' alt='Kaggle Logo' width='16' height='16'> <a href='[Link to my Kaggle profile]' target='_blank'>Kaggle Profile</a> - Engage with my data science projects and competitions.</li>
+    <li><img src='https://www.hackerrank.com/favicon.ico' alt='HackerRank Logo' width='16' height='16'> <a href='[Link to my HackerRank profile]' target='_blank'>HackerRank Profile</a> - Explore my coding challenges and accomplishments.</li>
+    <li><img src='https://leetcode.com/favicon.ico' alt='LeetCode Logo' width='16' height='16'> <a href='[Link to my LeetCode profile]' target='_blank'>LeetCode Profile</a> - View my problem-solving skills in algorithm challenges.</li>
+    <li><img src='https://public.tableau.com/favicon.ico' alt='Tableau Logo' width='16' height='16'> <a href='[Link to my Tableau Public profile]' target='_blank'>Tableau Public Profile</a> - Discover my data visualization projects.</li>
+    <li><img src='https://yourportfolio.com/logo.png' alt='Portfolio Logo' width='16' height='16'> <a href='[Link to my portfolio website]' target='_blank'>Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.</li>
+    <li><img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo' width='16' height='16'> <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.</li>
+    <li><img src='https://instagram.com/favicon.ico' alt='Instagram Logo' width='16' height='16'> <a href='[Link to my Instagram profile]' target='_blank'>Instagram Profile</a> - Follow me for updates and insights into my professional journey.</li>
+</ul>
+
+<h2>Contact Me</h2>
+<ul>
+    <li><img src='https://example.com/email-logo.png' alt='Email Logo' width='16' height='16'> Email Contact: [Your email address] - Reach out for collaborations or inquiries.</li>
+    <li><img src='https://example.com/phone-logo.png' alt='Phone Logo' width='16' height='16'> Phone Number: [Your phone number] - Contact me directly for any professional discussions.</li>
+</ul>
+
+<h2>GitHub Repositories</h2>
+<p>Links to all my GitHub repositories, showcasing a variety of projects and contributions.</p>
+
+</body>
+</html>
+
+
+
+
+
 
 
 <!DOCTYPE html>
@@ -22,10 +65,6 @@
 
     
  <li><img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin-logo.png' alt='LinkedIn Logo' width='16' height='16'> <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank'>LinkedIn Profile</a> - Connect with me professionally and view my career journey.</li>
-
-
-    
-    <!-- New Instagram Profile -->
 
     
   <li><img src='https://instagram.com/favicon.ico' alt='Instagram Logo' width='16' height='16'> <a href='[Link to my Instagram profile]'>Instagram Profile</a> - Follow me for updates and insights into my professional journey.</li>
