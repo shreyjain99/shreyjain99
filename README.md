@@ -39,15 +39,15 @@
     </a> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
 </div>
 
-<h2 style="font-size: 1.2em;">Contact Me</h2>
+<h2 style="font-size: 1.2em;">Contact Me: Contact me directly for any professional discussions</h2>
 <div>
     <a href="mailto:shreyjain109@gmail.com">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
-    </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Email Contact: shreyjain109@gmail.com - Reach out for collaborations or inquiries.</span><br><br>
+    </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Email Contact: shreyjain109@gmail.com</span><br><br>
     
 <a href="tel:+12147270079">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/phone-logo.svg' alt='Phone Logo' width='24' height='23'>
-    </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Phone Number: 214-727-0079 - Contact me directly for any professional discussions.</span><br><br>
+    </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Phone Number: +1 214-727-0079</span><br><br>
 </div>
 
 <h2 style="font-size: 1.2em;">GitHub Repositories</h2>
