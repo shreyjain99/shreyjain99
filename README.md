@@ -50,6 +50,12 @@
     </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Phone Number: +1 214-727-0079</span><br><br>
 </div>
 
+<hr>
+<hr>
+
+<img src="https://github.com/shreyjain99/shreyjain99/blob/main/myprojects.gif" alt="Description of GIF" width="400" height="300">
+<img src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif" alt="Description of GIF" width="400" height="300">
+
 <h2 style="font-size: 1.2em;">GitHub Repositories</h2>
 <ul>
     <li><a href="https://github.com/shreyjain99/RidePredictor">RidePredictor</a></li>
