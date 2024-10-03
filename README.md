@@ -53,12 +53,12 @@
 <hr>
 <hr>
 
-<div align=center>
-  img height=100 src=httpsgithub.comshreyjain99shreyjain99blobmaincheck_gif.gif
+<div align="center">
+    <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/myprojects.gif" alt="Check GIF">
 </div>
 
-<div align=center>
-  img height=100 src=httpsgithub.comshreyjain99shreyjain99blobmainbelow_arrow.gif
+<div align="center">
+    <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif" alt="Below Arrow GIF">
 </div>
 
 
