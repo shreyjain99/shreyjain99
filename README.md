@@ -53,8 +53,14 @@
 <hr>
 <hr>
 
-<img src="https://github.com/shreyjain99/shreyjain99/blob/main/myprojects.gif" alt="Description of GIF" width="400" height="300">
-<img src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif" alt="Description of GIF" width="400" height="300">
+<div align=center>
+  img height=100 src=httpsgithub.comshreyjain99shreyjain99blobmaincheck_gif.gif
+</div>
+
+<div align=center>
+  img height=100 src=httpsgithub.comshreyjain99shreyjain99blobmainbelow_arrow.gif
+</div>
+
 
 <h2 style="font-size: 1.2em;">GitHub Repositories</h2>
 <ul>
