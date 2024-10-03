@@ -51,7 +51,24 @@
 </div>
 
 <h2 style="font-size: 1.2em;">GitHub Repositories</h2>
-<p style="font-size: 1.1em;">Links to all my GitHub repositories, showcasing a variety of projects and contributions.</p>
+<ul>
+    <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR">Certifications Transcripts LOR</a></li>
+    <li><a href="https://github.com/shreyjain99/Ad-Click-Likelihood-Estimator">Ad Click Likelihood Estimator</a></li>
+    <li><a href="https://github.com/shreyjain99/Not-Fake">Not Fake</a></li>
+    <li><a href="https://github.com/shreyjain99/Search-Engine-Elastic-Search">Search Engine Elastic Search</a></li>
+    <li><a href="https://github.com/shreyjain99/Facebook-Friend-Recommendation-Using-Graph-Mining">Facebook Friend Recommendation Using Graph Mining</a></li>
+    <li><a href="https://github.com/shreyjain99/BeautyNet">BeautyNet</a></li>
+    <li><a href="https://github.com/shreyjain99/Microsoft-Malware-Detection">Microsoft Malware Detection</a></li>
+    <li><a href="https://github.com/shreyjain99/Movie-Recommender-System">Movie Recommender System</a></li>
+    <li><a href="https://github.com/shreyjain99/Personalized-Cancer-Diagnosis">Personalized Cancer Diagnosis</a></li>
+    <li><a href="https://github.com/shreyjain99/Quora-Question-Pair-Similarity">Quora Question Pair Similarity</a></li>
+    <li><a href="https://github.com/shreyjain99/TagGen-Automated-Tagging-for-Stack-Overflow-Questions">TagGen Automated Tagging for Stack Overflow Questions</a></li>
+    <li><a href="https://github.com/shreyjain99/RidePredictor">RidePredictor</a></li>
+    <li><a href="https://github.com/shreyjain99/Tableau-and-DataViz-Projects">Tableau and DataViz Projects</a></li>
+    <li><a href="https://github.com/shreyjain99/R-Projects">R Projects</a></li>
+    <li><a href="https://github.com/shreyjain99/ANT-Truck-Data-Analysis-Using-BigData">ANT Truck Data Analysis Using BigData</a></li>
+    <li><a href="https://github.com/shreyjain99/SQL-Projects">SQL Projects</a></li>
+</ul>
 
 </body>
 </html>
