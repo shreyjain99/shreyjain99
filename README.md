@@ -52,7 +52,7 @@
 
 <h2 style="font-size: 1.2em;">GitHub Repositories</h2>
 <ul>
-    <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR">Certifications Transcripts LOR</a></li>
+    <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR">Certifications Transcripts LOR: This repository showcases a collection of certifications, transcripts, and letters of recommendation.</a></li>
     <li><a href="https://github.com/shreyjain99/Ad-Click-Likelihood-Estimator">Ad Click Likelihood Estimator</a></li>
     <li><a href="https://github.com/shreyjain99/Not-Fake">Not Fake</a></li>
     <li><a href="https://github.com/shreyjain99/Search-Engine-Elastic-Search">Search Engine Elastic Search</a></li>
