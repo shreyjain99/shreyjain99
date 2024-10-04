@@ -105,6 +105,37 @@
 <hr>
 <hr>
 
+
+
+<div>
+    <img height="100" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/about-me.gif" alt="about me GIF">
+</div>
+
+
+<hr>
+
+<h3><b><i><font color="green">ABOUT ME -- </font></i></b></h3>
+
+<div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+<hr>
+
 <div>
     <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/myprojects.gif" alt="Check GIF">
 </div>
