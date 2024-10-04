@@ -15,7 +15,7 @@
 <hr>
 <hr>
 
-<div align:center>
+<div align=center>
     <img height="300" width="450" src="https://github.com/shreyjain99/shreyjain99/blob/main/profile%20gif.gif" alt="contact GIF">
 </div>
 
