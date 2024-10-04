@@ -49,7 +49,7 @@
 <hr>
 
 
-<h3 style="font-size: 1.2em;">Contact Me:</h3>
+<h3 style="font-size: 1.2em;">CONTACT ME</h3>
 <div>
     <a href="mailto:shreyjain109@gmail.com">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
@@ -73,7 +73,7 @@
 
 <hr>
 
-<h3 style="font-size: 1.2em;">My Projects</h3>
+<h3 style="font-size: 1.2em;">MY PROJECTS</h3>
 
 <body>
     <div>
