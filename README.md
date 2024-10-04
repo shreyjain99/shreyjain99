@@ -131,7 +131,7 @@
     </p>
 
 
-<h4>Skills</h4>
+<h4>Skills: </h4>
     <p>
         Data Analysis, Statistical Modeling, Machine Learning, SQL, Python, R, MongoDB, Tableau, Power BI, 
         Apache Hadoop, Spark, Hive, Impala, Pig, AWS (Amazon Web Services), Microsoft Excel, 
