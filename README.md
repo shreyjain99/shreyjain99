@@ -65,11 +65,11 @@
 
 
 <div>
-    <img height="100" width="300" src="https://github.com/shreyjain99/shreyjain99/blob/main/contact%20us2.gif" alt="contact GIF">
+    <img height="100" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/contact%20us2.gif" alt="contact GIF">
 </div>
 
 <div>
-    <img height="100" width="300" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
+    <img height="150" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
 </div>
 
 
