@@ -64,7 +64,7 @@
 <hr>
 
 <body>
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;">
+    <div align="center">
         <a href="https://github.com/shreyjain99/RidePredictor">RidePredictor</a><br>
         <a href="https://github.com/shreyjain99/TagGen-Automated-Tagging-for-Stack-Overflow-Questions">TagGen Automated Tagging for Stack Overflow Questions</a><br>
         <a href="https://github.com/shreyjain99/SQL-Projects">SQL Projects</a><br>
