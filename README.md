@@ -129,6 +129,16 @@
         with a keen emphasis on teamwork and time management. Driven by a passion for uncovering insights from 
         data, I am committed to making significant contributions to impactful decision-making in data-driven roles.
     </p>
+
+
+<h4>Skills</h4>
+    <p>
+        Data Analysis, Statistical Modeling, Machine Learning, SQL, Python, R, MongoDB, Tableau, Power BI, 
+        Apache Hadoop, Spark, Hive, Impala, Pig, AWS (Amazon Web Services), Microsoft Excel, 
+        Advanced Statistics, A/B Testing, Probability Distribution and Maximum Likelihood Estimation, 
+        Regression Analysis, Time Series Forecasting, Deep Learning, Natural Language Processing, 
+        ETL (Extract, Transform, Load) Pipelines, Data Warehousing.
+    </p>
 </div>
 
 
