@@ -43,7 +43,7 @@
 <hr>
 
 <div>
-    <img height="200" width="300" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
+    <img height="200" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
 </div>
 
 <hr>
