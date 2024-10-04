@@ -61,8 +61,10 @@
     <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif" alt="Below Arrow GIF">
 </div>
 
+<hr>
+
 <body>
-    <center>
+    <div style="text-align: center;">
         <a href="https://github.com/shreyjain99/RidePredictor">RidePredictor</a><br>
         <a href="https://github.com/shreyjain99/TagGen-Automated-Tagging-for-Stack-Overflow-Questions">TagGen Automated Tagging for Stack Overflow Questions</a><br>
         <a href="https://github.com/shreyjain99/SQL-Projects">SQL Projects</a><br>
@@ -80,8 +82,9 @@
         <a href="https://github.com/shreyjain99/Quora-Question-Pair-Similarity">Quora Question Pair Similarity</a><br>
         <a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR">Certifications Transcripts LOR</a><br>
         <a href="https://github.com/shreyjain99/HackerRank-Leetcode-Kaggle">HackerRank Leetcode Kaggle</a>
-    </center>
+    </div>
 </body>
+
 
 </body>
 </html>
