@@ -49,7 +49,7 @@
     
  <a>
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/insta%20logo%20v2.png' alt='Instagram Logo' width='24' height='23'>
-    </a> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
+    </a> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow my food and travel page.<br><br>
 </div>
 
 
