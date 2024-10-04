@@ -111,6 +111,10 @@
     <img height="100" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/about-me.gif" alt="about me GIF">
 </div>
 
+<div>
+    <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/arrow-1455_256.gif" alt="Below Arrow GIF">
+</div>
+
 
 <hr>
 
