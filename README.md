@@ -39,6 +39,13 @@
     </a> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
 </div>
 
+
+
+
+
+
+
+
 <hr>
 <hr>
 
@@ -46,10 +53,12 @@
     <img height="200" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
 </div>
 
+
 <hr>
 
 
-<h3 style="font-size: 1.2em;">CONTACT ME</h3>
+<h3 style="font-size: 1.2em; font-style: italic; font-weight: bold; color: green;">CONTACT ME</h3>
+
 <div>
     <a href="mailto:shreyjain109@gmail.com">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
@@ -59,6 +68,14 @@
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/phone-logo.svg' alt='Phone Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Phone Number: +1 214-727-0079</span><br><br>
 </div>
+
+
+
+
+
+
+
+
 
 <hr>
 <hr>
@@ -71,7 +88,9 @@
     <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/below_arrow.gif" alt="Below Arrow GIF">
 </div>
 
+
 <hr>
+
 
 <h3 style="font-size: 1.2em;">MY PROJECTS</h3>
 
