@@ -69,7 +69,7 @@
 </div>
 
 <div>
-    <img height="200" width="250" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
+    <img height="100" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
 </div>
 
 <hr>
@@ -112,7 +112,7 @@
 </div>
 
 <div>
-    <img height="100" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/smartparcel-down-arrows.gif" alt="Below Arrow GIF">
+    <img height="200" width="250" src="https://github.com/shreyjain99/shreyjain99/blob/main/smartparcel-down-arrows.gif" alt="Below Arrow GIF">
 </div>
 
 
