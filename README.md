@@ -112,7 +112,7 @@
 </div>
 
 <div>
-    <img height="200" width="250" src="https://github.com/shreyjain99/shreyjain99/blob/main/smartparcel-down-arrows.gif" alt="Below Arrow GIF">
+    <img height="150" width="200" src="https://github.com/shreyjain99/shreyjain99/blob/main/smartparcel-down-arrows.gif" alt="Below Arrow GIF">
 </div>
 
 
