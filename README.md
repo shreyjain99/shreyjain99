@@ -61,7 +61,7 @@
 
 
 <div>
-    <a href="mailto:shreyjain109@gmail.com">
+    <a >
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <span style="font-size: 1.1em;">Email Contact: shreyjain109@gmail.com</span><br><br>
     
