@@ -49,7 +49,7 @@
 <hr>
 
 
-<h2 style="font-size: 1.2em;">Contact Me: Contact me directly for any professional discussions</h2>
+<h3 style="font-size: 1.2em;">Contact Me:</h3>
 <div>
     <a href="mailto:shreyjain109@gmail.com">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
@@ -72,6 +72,8 @@
 </div>
 
 <hr>
+
+<h3 style="font-size: 1.2em;">My Projects</h3>
 
 <body>
     <div>
