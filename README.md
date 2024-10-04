@@ -93,7 +93,7 @@
 <hr>
 
 
-<h3 style="font-size: 1.2em;">MY PROJECTS</h3>
+<h3><b><i><font color="green">MY PROJECTS</font></i></b></h3>
 
 <body>
     <div>
