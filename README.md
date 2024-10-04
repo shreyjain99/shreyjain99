@@ -8,7 +8,20 @@
 
 <h1 style="font-size: 1.5em;">My Professional Journey: Profiles, Projects and More...</h1>
 
-<h2 style="font-size: 1.2em;">Profiles:</h2>
+
+
+
+
+<hr>
+<hr>
+
+<div>
+    <img height="200" width="350" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
+</div>
+
+<hr>
+
+<h3><b><i><font color="green">PROFILE LINKS -- </font></i></b></h3>
 <div>
     <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank'>
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin%20logo%20v2.ico' alt='LinkedIn Logo' width='24' height='23'>
