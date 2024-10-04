@@ -131,6 +131,8 @@
     </p>
 
 
+ <br>
+
 <h4>Skills: </h4>
     <p>
         Data Analysis, Statistical Modeling, Machine Learning, SQL, Python, R, MongoDB, Tableau, Power BI, 
