@@ -39,6 +39,16 @@
     </a> &nbsp;&nbsp; <a href='https://www.instagram.com/plate.and.plane/' target='_blank' style="font-size: 1.1em;">Instagram Profile</a> - Follow me for updates and insights into my professional journey.<br><br>
 </div>
 
+<hr>
+<hr>
+
+<div>
+    <img height="100" src="https://github.com/shreyjain99/shreyjain99/blob/main/Contact_us.gif" alt="contact GIF">
+</div>
+
+<hr>
+
+
 <h2 style="font-size: 1.2em;">Contact Me: Contact me directly for any professional discussions</h2>
 <div>
     <a href="mailto:shreyjain109@gmail.com">
