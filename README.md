@@ -76,6 +76,8 @@
 
 <h3><b><i><font color="green">CONTACT ME -- </font></i></b></h3>
 
+<div>
+
 <a>
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
 </a> &nbsp;&nbsp; 
@@ -91,7 +93,7 @@
     Phone Number: <a href="tel:+12147270079" style="text-decoration: none; color: inherit;">+1 214-727-0079</a>
 </span><br><br>
 
-
+</div>
 
 
 
