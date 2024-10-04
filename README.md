@@ -118,7 +118,7 @@
 
 <hr>
 
-<h3><b><i><font color="green">ABOUT ME </font></i></b></h3>
+<h3><b><i><font color="green">ABOUT ME -- </font></i></b></h3>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.5;">
     <p>
