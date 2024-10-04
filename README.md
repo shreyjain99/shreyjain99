@@ -57,7 +57,8 @@
 <hr>
 
 
-<h3 style="font-size: 1.2em; font-style: italic; font-weight: bold; color: green;">CONTACT ME</h3>
+<h3><b><i><font color="green">CONTACT ME</font></i></b></h3>
+
 
 <div>
     <a href="mailto:shreyjain109@gmail.com">
