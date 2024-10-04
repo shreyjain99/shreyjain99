@@ -57,7 +57,7 @@
 <hr>
 
 
-<h3><b><i><font color="green">CONTACT ME</font></i></b></h3>
+<h3><b><i><font color="green">CONTACT ME -- </font></i></b></h3>
 
 
 <div>
@@ -93,7 +93,7 @@
 <hr>
 
 
-<h3><b><i><font color="green">MY PROJECTS</font></i></b></h3>
+<h3><b><i><font color="green">MY PROJECTS -- </font></i></b></h3>
 
 <body>
     <div>
