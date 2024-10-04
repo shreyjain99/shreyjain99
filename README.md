@@ -80,12 +80,13 @@
 
 
 <div>
-<a>
+<a href="mailto:shreyjain109@gmail.com">
     <img src='https://github.com/shreyjain99/shreyjain99/blob/main/gmail-logo.svg' alt='Email Logo' width='24' height='23'>
 </a> &nbsp;&nbsp; 
 <span style="font-size: 1.1em;">
-    <a href="mailto:shreyjain109@gmail.com" style="text-decoration: none; color: inherit;">Email Contact: shreyjain109@gmail.com</a>
+    Email Contact: <a href="mailto:shreyjain109@gmail.com" style="text-decoration: none; color: inherit;">shreyjain109@gmail.com</a>
 </span><br><br>
+
     
 <a href="tel:+12147270079">
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/phone-logo.svg' alt='Phone Logo' width='24' height='23'>
