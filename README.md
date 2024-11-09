@@ -27,9 +27,6 @@
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/linkedin%20logo%20v2.ico' alt='LinkedIn Logo' width='24' height='23'>
     </a> &nbsp;&nbsp; <a href='https://www.linkedin.com/in/shreyjain99/' target='_blank' style="font-size: 1.1em;">LinkedIn Profile</a> - Connect with me professionally and view my career journey.<br><br>
     
- <a>
-        <img src='https://github.com/shreyjain99/shreyjain99/blob/main/portfolio%20logo.png' alt='Portfolio Logo' width='24' height='23'>
-    </a> &nbsp;&nbsp; <a href='#' target='_blank' style="font-size: 1.1em;">Portfolio Website</a> - A comprehensive view of my projects, skills, and experiences.<br><br>
     
  <a>
         <img src='https://github.com/shreyjain99/shreyjain99/blob/main/tableau%20logo%20v2.ico' alt='Tableau Logo' width='24' height='23'>
