@@ -120,7 +120,7 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.5;">
     <p>
         As a highly qualified professional with a robust analytical mindset, I am currently pursuing a 
-        <strong>Master of Science in Business Analytics</strong> at 
+        <strong>Master of Science in Business Analytics and Artificial Intelligence</strong> at 
         <strong>The University of Texas at Dallas</strong>. My skill set encompasses a diverse range of technical tools 
         and analytical methodologies. I excel in problem-solving, critical thinking, and effective communication, 
         with a keen emphasis on teamwork and time management. Driven by a passion for uncovering insights from 
