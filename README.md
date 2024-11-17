@@ -123,36 +123,33 @@
 
 Outside of work, I love traveling and exploring different cuisines and foods, which I share on my Instagram page, plate and plane (I.D - plate.and.plane). Documenting these experiences allows me to connect with others and share the unique flavors and stories I encounter. Music is also a big part of my life, it brings joy and inspiration. These passions keep my life vibrant and balanced, fueling my creativity and sense of adventure.
 
-Skills and Tools in which I am proficient are - 
-
-Python (Programming Language)
-Machine Learning
-Data Visualization – Tools like Tableau and Power BI
-SQL
-Statistics
-Big Data Analytics – Frameworks like Apache Spark and Hadoop
-Feature Engineering
-Deep Learning – Using TensorFlow and Transformer Models
-Natural Language Processing (NLP)
-Exploratory Data Analysis (EDA)
-AWS (Amazon Web Services) – Including AWS SageMaker
-Time Series Analysis
-Predictive Modeling
-R (Programming Language)
-A/B Testing
-    </p>
+</p>
 
 
  <br>
 
 <h4>Skills: </h4>
     <p>
-        Data Analysis, Statistical Modeling, Machine Learning, SQL, Python, R, MongoDB, Tableau, Power BI, 
-        Apache Hadoop, Spark, Hive, Impala, Pig, AWS (Amazon Web Services), Microsoft Excel, 
-        Advanced Statistics, A/B Testing, Probability Distribution and Maximum Likelihood Estimation, 
-        Regression Analysis, Time Series Forecasting, Deep Learning, Natural Language Processing, 
-        ETL (Extract, Transform, Load) Pipelines, Data Warehousing.
-    </p>
+Skills and Tools in which I am proficient are - 
+</p>
+<ul>
+    <li>Python (Programming Language)</li>
+    <li>Machine Learning</li>
+    <li>Data Visualization – Tools like Tableau and Power BI</li>
+    <li>SQL</li>
+    <li>Statistics</li>
+    <li>Big Data Analytics – Frameworks like Apache Spark and Hadoop</li>
+    <li>Feature Engineering</li>
+    <li>Deep Learning – Using TensorFlow and Transformer Models</li>
+    <li>Natural Language Processing (NLP)</li>
+    <li>Exploratory Data Analysis (EDA)</li>
+    <li>AWS (Amazon Web Services) – Including AWS SageMaker</li>
+    <li>Time Series Analysis</li>
+    <li>Predictive Modeling</li>
+    <li>R (Programming Language)</li>
+    <li>A/B Testing</li>
+</ul>
+
 </div>
 
 
