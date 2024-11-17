@@ -128,10 +128,8 @@ Outside of work, I love traveling and exploring different cuisines and foods, wh
 
  <br>
 
-<h4>Skills: </h4>
-    <p>
-Skills and Tools in which I am proficient are - 
-</p>
+<h4>Skills and Tools in which I am proficient are - </h4>
+
 <ul>
     <li>Python (Programming Language)</li>
     <li>Machine Learning</li>
