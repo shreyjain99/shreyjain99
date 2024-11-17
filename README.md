@@ -119,12 +119,27 @@
 
 <div style="font-family: Arial, sans-serif; line-height: 1.5;">
     <p>
-        As a highly qualified professional with a robust analytical mindset, I am currently pursuing a 
-        <strong>Master of Science in Business Analytics and Artificial Intelligence</strong> at 
-        <strong>The University of Texas at Dallas</strong>. My skill set encompasses a diverse range of technical tools 
-        and analytical methodologies. I excel in problem-solving, critical thinking, and effective communication, 
-        with a keen emphasis on teamwork and time management. Driven by a passion for uncovering insights from 
-        data, I am committed to making significant contributions to impactful decision-making in data-driven roles.
+        I am someone who likes to take action and solve problems. I am good at critical thinking and problem solving which helps in breaking down complex challenges and approach tasks with logical, clear-headed reasoning, ensuring effective outcomes. I believe in clear communication and teamwork as it enhances understanding and helps achieve anything we set our minds to.
+
+Outside of work, I love traveling and exploring different cuisines and foods, which I share on my Instagram page, plate and plane (I.D - plate.and.plane). Documenting these experiences allows me to connect with others and share the unique flavors and stories I encounter. Music is also a big part of my life, it brings joy and inspiration. These passions keep my life vibrant and balanced, fueling my creativity and sense of adventure.
+
+Skills and Tools in which I am proficient are - 
+
+Python (Programming Language)
+Machine Learning
+Data Visualization – Tools like Tableau and Power BI
+SQL
+Statistics
+Big Data Analytics – Frameworks like Apache Spark and Hadoop
+Feature Engineering
+Deep Learning – Using TensorFlow and Transformer Models
+Natural Language Processing (NLP)
+Exploratory Data Analysis (EDA)
+AWS (Amazon Web Services) – Including AWS SageMaker
+Time Series Analysis
+Predictive Modeling
+R (Programming Language)
+A/B Testing
     </p>
 
 
